@@ -4,7 +4,7 @@ Hi 👋 My name is Abdulrahman Sakah
 Junior fullstack developer
 --------------------------
 
-I have been programming since the age of 10, it is my hoppy and my passion. I work as a junior full-stack web developer, mainly with react and react-native to create new solutions for problems that we face in a day to day paces.
+I have been programming since the age of 10, it is my hoppy and my passion. I work as a full-stack web developer, mainly with react and react-native to create new solutions for problems that we face in a day to day paces.
 
 * 🌍  I'm based in Karlskrona, Sweden
 * 🖥️  See my portfolio at [My Portoflio](https://www.abodsakka.xyz)
